@@ -1,0 +1,167 @@
+<<<<<<< HEAD
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.main-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    margin: 10px;
+}
+
+.main-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    margin: 15px;
+
+}
+
+.main-img {
+    height: 100px;
+    width: 100px;
+    margin-right: 20px;
+}
+
+.main-img img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+.main-text {
+    width: 70%;
+    display: flex;
+    flex-direction: column;
+    margin: 0px 10px;
+    padding: 10px;
+}
+
+.main-text h2 {
+    font-size: 30px;
+    margin: 0px 10px;
+
+}
+
+.main-text p {
+    width: 90%;
+    font-size: 20px;
+    margin: 5px 10px;
+}
+.cards-cont{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 20px;
+    margin: 15px;
+}
+
+.card {
+    height: 400px;
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid gray;
+    border-radius: 3px;
+    margin: 10px;
+
+}
+
+.card-title {
+    height: 15%;
+    width: 100%;
+    text-align: center;
+    background: lightgray;
+}
+
+.price-sect {
+    height: 70%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.cd-btn {
+    height: 15%;
+    width: 100px;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    padding: 10px;
+    margin: 5px;
+}
+
+.cd-btn button {
+    width: 100%;
+    background: yellow;
+    color: black;
+    border: none;
+    border-radius: 10px;
+    font-weight: 300;
+}
+
+footer{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+
+.footer-wrapper{
+    height: 20vh;
+    width: 80vw;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    background: lightgray;
+}
+
+.footer-cont{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.link-cont li{
+    margin-bottom: 0;
+    padding: 0px;
+}
+
+.link-cont ul{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+list-style: none;
+}
+
+.link-cont li{
+    padding: 5px;
+    margin: 5px;
+}
+
+.link-cont h5{
+    margin-top:0 ;
+=======
+#video{
+    width: 600px;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    margin: 30px auto;
+}
+
+#video img{
+    width: 600px;
+    height: 400px;
+>>>>>>> 5b73ed83b1453832803e79c97ba446f26b1304d8
+}
